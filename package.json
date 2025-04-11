@@ -1,0 +1,15 @@
+{
+        "name": "nodejs-todo-app",
+        "version": "1.0.0",
+        "main": "app.js",
+        "scripts": {
+                "start": "node app.js"
+        },
+        "dependencies": {
+                "express": "^4.21.2"
+        },
+        "description": "Simple Node.js app for AWS CI/CD Learning",
+        "keywords": [],
+        "author": "",
+        "license": "ISC"
+}
